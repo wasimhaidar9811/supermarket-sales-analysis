@@ -1,0 +1,101 @@
+Invoice ID,City,Gender,Product line,Unit price,Quantity,Tax 5%,Total,Date,Payment
+INV-1000,Mandalay,Female,Health,91.04,6,27.31,573.55,2024-01-01,Cash
+INV-1001,Yangon,Female,Clothing,66.98,6,20.09,421.97,2024-01-02,Ewallet
+INV-1002,Mandalay,Female,Electronics,40.51,5,10.13,212.68,2024-01-03,Cash
+INV-1003,Mandalay,Male,Health,41.43,1,2.07,43.5,2024-01-04,Ewallet
+INV-1004,Yangon,Male,Health,75.34,8,30.14,632.86,2024-01-05,Credit card
+INV-1005,Yangon,Male,Health,90.74,5,22.68,476.38,2024-01-06,Cash
+INV-1006,Mandalay,Male,Clothing,89.84,5,22.46,471.66,2024-01-07,Ewallet
+INV-1007,Naypyitaw,Female,Electronics,80.19,7,28.07,589.4,2024-01-08,Ewallet
+INV-1008,Mandalay,Male,Health,67.78,4,13.56,284.68,2024-01-09,Credit card
+INV-1009,Mandalay,Male,Health,17.57,6,5.27,110.69,2024-01-10,Cash
+INV-1010,Mandalay,Male,Health,24.55,4,4.91,103.11,2024-01-11,Cash
+INV-1011,Mandalay,Male,Clothing,90.87,3,13.63,286.24,2024-01-12,Ewallet
+INV-1012,Yangon,Male,Clothing,64.58,7,22.6,474.66,2024-01-13,Cash
+INV-1013,Mandalay,Female,Electronics,10.83,8,4.33,90.97,2024-01-14,Ewallet
+INV-1014,Naypyitaw,Male,Clothing,19.13,4,3.83,80.35,2024-01-15,Cash
+INV-1015,Yangon,Female,Health,69.72,2,6.97,146.41,2024-01-16,Ewallet
+INV-1016,Naypyitaw,Male,Electronics,10.46,3,1.57,32.95,2024-01-17,Cash
+INV-1017,Naypyitaw,Female,Health,24.47,1,1.22,25.69,2024-01-18,Credit card
+INV-1018,Naypyitaw,Male,Health,59.39,8,23.76,498.88,2024-01-19,Cash
+INV-1019,Naypyitaw,Male,Clothing,72.27,3,10.84,227.65,2024-01-20,Cash
+INV-1020,Yangon,Female,Electronics,68.68,7,24.04,504.8,2024-01-21,Credit card
+INV-1021,Yangon,Female,Clothing,30.18,5,7.55,158.45,2024-01-22,Cash
+INV-1022,Naypyitaw,Female,Clothing,74.1,5,18.53,389.03,2024-01-23,Credit card
+INV-1023,Naypyitaw,Male,Electronics,31.35,7,10.97,230.42,2024-01-24,Cash
+INV-1024,Yangon,Female,Health,39.29,9,17.68,371.29,2024-01-25,Ewallet
+INV-1025,Yangon,Male,Health,77.18,5,19.3,405.2,2024-01-26,Ewallet
+INV-1026,Yangon,Male,Electronics,68.47,1,3.42,71.89,2024-01-27,Cash
+INV-1027,Mandalay,Female,Health,86.43,1,4.32,90.75,2024-01-28,Cash
+INV-1028,Mandalay,Female,Electronics,69.19,2,6.92,145.3,2024-01-29,Cash
+INV-1029,Mandalay,Male,Electronics,61.15,6,18.34,385.24,2024-01-30,Ewallet
+INV-1030,Naypyitaw,Male,Clothing,18.43,9,8.29,174.16,2024-01-31,Cash
+INV-1031,Mandalay,Female,Electronics,43.09,8,17.24,361.96,2024-02-01,Ewallet
+INV-1032,Naypyitaw,Female,Clothing,33.87,5,8.47,177.82,2024-02-02,Credit card
+INV-1033,Naypyitaw,Female,Health,31.96,1,1.6,33.56,2024-02-03,Ewallet
+INV-1034,Mandalay,Male,Health,97.57,7,34.15,717.14,2024-02-04,Ewallet
+INV-1035,Naypyitaw,Male,Health,45.38,5,11.34,238.24,2024-02-05,Credit card
+INV-1036,Mandalay,Male,Health,90.28,6,27.08,568.76,2024-02-06,Ewallet
+INV-1037,Mandalay,Male,Clothing,66.8,7,23.38,490.98,2024-02-07,Cash
+INV-1038,Yangon,Male,Health,81.53,3,12.23,256.82,2024-02-08,Cash
+INV-1039,Mandalay,Male,Electronics,55.24,3,8.29,174.01,2024-02-09,Ewallet
+INV-1040,Yangon,Female,Electronics,61.92,5,15.48,325.08,2024-02-10,Cash
+INV-1041,Mandalay,Male,Electronics,54.33,6,16.3,342.28,2024-02-11,Ewallet
+INV-1042,Mandalay,Male,Clothing,27.57,9,12.41,260.54,2024-02-12,Cash
+INV-1043,Yangon,Male,Health,75.02,5,18.76,393.86,2024-02-13,Cash
+INV-1044,Yangon,Female,Health,35.27,1,1.76,37.03,2024-02-14,Ewallet
+INV-1045,Mandalay,Male,Health,12.19,4,2.44,51.2,2024-02-15,Cash
+INV-1046,Naypyitaw,Male,Clothing,68.09,5,17.02,357.47,2024-02-16,Ewallet
+INV-1047,Yangon,Female,Electronics,25.94,5,6.49,136.19,2024-02-17,Cash
+INV-1048,Naypyitaw,Male,Electronics,94.64,7,33.12,695.6,2024-02-18,Cash
+INV-1049,Naypyitaw,Male,Health,95.85,4,19.17,402.57,2024-02-19,Credit card
+INV-1050,Naypyitaw,Male,Electronics,92.34,1,4.62,96.96,2024-02-20,Credit card
+INV-1051,Yangon,Male,Electronics,43.31,5,10.83,227.38,2024-02-21,Ewallet
+INV-1052,Naypyitaw,Male,Clothing,11.39,7,3.99,83.72,2024-02-22,Credit card
+INV-1053,Yangon,Female,Clothing,93.55,6,28.06,589.36,2024-02-23,Ewallet
+INV-1054,Naypyitaw,Female,Clothing,48.54,5,12.14,254.84,2024-02-24,Credit card
+INV-1055,Mandalay,Female,Clothing,97.0,4,19.4,407.4,2024-02-25,Cash
+INV-1056,Mandalay,Male,Health,96.73,2,9.67,203.13,2024-02-26,Ewallet
+INV-1057,Yangon,Male,Clothing,86.77,4,17.35,364.43,2024-02-27,Ewallet
+INV-1058,Mandalay,Male,Electronics,36.5,3,5.48,114.98,2024-02-28,Cash
+INV-1059,Mandalay,Female,Health,44.66,1,2.23,46.89,2024-02-29,Ewallet
+INV-1060,Naypyitaw,Male,Electronics,86.6,8,34.64,727.44,2024-03-01,Ewallet
+INV-1061,Yangon,Male,Electronics,38.52,5,9.63,202.23,2024-03-02,Credit card
+INV-1062,Naypyitaw,Female,Electronics,25.25,4,5.05,106.05,2024-03-03,Ewallet
+INV-1063,Naypyitaw,Male,Clothing,60.11,8,24.04,504.92,2024-03-04,Cash
+INV-1064,Naypyitaw,Female,Clothing,94.25,7,32.99,692.74,2024-03-05,Credit card
+INV-1065,Naypyitaw,Female,Health,72.64,2,7.26,152.54,2024-03-06,Credit card
+INV-1066,Naypyitaw,Female,Health,61.31,1,3.07,64.38,2024-03-07,Cash
+INV-1067,Naypyitaw,Male,Clothing,18.75,4,3.75,78.75,2024-03-08,Cash
+INV-1068,Naypyitaw,Male,Electronics,65.35,8,26.14,548.94,2024-03-09,Credit card
+INV-1069,Yangon,Male,Health,99.1,2,9.91,208.11,2024-03-10,Ewallet
+INV-1070,Mandalay,Male,Clothing,22.61,3,3.39,71.22,2024-03-11,Credit card
+INV-1071,Naypyitaw,Male,Clothing,56.65,1,2.83,59.48,2024-03-12,Cash
+INV-1072,Naypyitaw,Male,Clothing,88.96,1,4.45,93.41,2024-03-13,Credit card
+INV-1073,Naypyitaw,Male,Electronics,76.67,3,11.5,241.51,2024-03-14,Cash
+INV-1074,Naypyitaw,Female,Clothing,72.73,5,18.18,381.83,2024-03-15,Credit card
+INV-1075,Naypyitaw,Male,Clothing,73.22,3,10.98,230.64,2024-03-16,Ewallet
+INV-1076,Naypyitaw,Female,Clothing,42.35,1,2.12,44.47,2024-03-17,Credit card
+INV-1077,Mandalay,Male,Clothing,36.42,1,1.82,38.24,2024-03-18,Credit card
+INV-1078,Mandalay,Male,Health,82.84,8,33.14,695.86,2024-03-19,Cash
+INV-1079,Naypyitaw,Male,Health,82.91,2,8.29,174.11,2024-03-20,Cash
+INV-1080,Mandalay,Female,Clothing,88.04,3,13.21,277.33,2024-03-21,Cash
+INV-1081,Yangon,Female,Electronics,92.19,2,9.22,193.6,2024-03-22,Credit card
+INV-1082,Naypyitaw,Female,Health,56.02,3,8.4,176.46,2024-03-23,Ewallet
+INV-1083,Yangon,Female,Clothing,55.14,7,19.3,405.28,2024-03-24,Cash
+INV-1084,Yangon,Male,Health,81.85,1,4.09,85.94,2024-03-25,Cash
+INV-1085,Naypyitaw,Female,Health,68.5,8,27.4,575.4,2024-03-26,Credit card
+INV-1086,Mandalay,Male,Electronics,73.18,2,7.32,153.68,2024-03-27,Cash
+INV-1087,Yangon,Male,Clothing,81.62,3,12.24,257.1,2024-03-28,Ewallet
+INV-1088,Naypyitaw,Female,Clothing,90.1,9,40.54,851.44,2024-03-29,Ewallet
+INV-1089,Yangon,Female,Electronics,40.42,7,14.15,297.09,2024-03-30,Cash
+INV-1090,Yangon,Female,Electronics,43.8,4,8.76,183.96,2024-03-31,Cash
+INV-1091,Yangon,Female,Clothing,18.46,5,4.62,96.92,2024-04-01,Credit card
+INV-1092,Yangon,Female,Clothing,62.05,2,6.2,130.3,2024-04-02,Ewallet
+INV-1093,Mandalay,Female,Electronics,13.23,8,5.29,111.13,2024-04-03,Ewallet
+INV-1094,Yangon,Female,Health,51.9,4,10.38,217.98,2024-04-04,Cash
+INV-1095,Yangon,Female,Health,58.84,9,26.48,556.04,2024-04-05,Credit card
+INV-1096,Yangon,Male,Electronics,35.79,5,8.95,187.9,2024-04-06,Ewallet
+INV-1097,Mandalay,Female,Health,63.17,9,28.43,596.96,2024-04-07,Ewallet
+INV-1098,Yangon,Female,Electronics,12.75,4,2.55,53.55,2024-04-08,Credit card
+INV-1099,Yangon,Male,Health,13.36,5,3.34,70.14,2024-04-09,Credit card

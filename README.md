@@ -4,6 +4,9 @@ This project provides a comprehensive analysis of supermarket sales data using P
 
 ---
 
+## 📁 Project Structure (XML Format)
+
+```xml
 <project name="super_market_sales_analysis">
     <file name="supermarket_sales_mock.csv" description="Raw dataset" />
     <file name="supermarket_sales_analysis.ipynb" description="Jupyter notebook with complete analysis" />
@@ -11,6 +14,7 @@ This project provides a comprehensive analysis of supermarket sales data using P
         <file name="city_sales.png" description="Saved visualization of sales by city" />
     </folder>
 </project>
+
 
 
 

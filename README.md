@@ -1,44 +1,66 @@
 # 🛒 Supermarket Sales Analysis
 
-This project is a basic data analysis on supermarket sales data using Python. It provides insights into sales trends across different cities, product lines, and payment methods.
+This project provides a comprehensive analysis of supermarket sales data using Python and Jupyter Notebook. It includes data cleaning, feature engineering, outlier handling, and insightful visualizations to uncover key patterns and trends.
 
-## 📁 Dataset
+---
 
-- **Filename**: `supermarket_sales_mock.csv`
-- **Rows**: 100
-- **Columns**: 10
-- The dataset includes details such as:
-  - Invoice ID
-  - City
-  - Gender
-  - Product line
-  - Unit price
-  - Quantity
-  - Tax 5%
-  - Total
-  - Date
-  - Payment
+## 📁 Project Structure
 
-## ⚙️ Technologies Used
+super_market_sales_analysis/
+│
+├── supermarket_sales_mock.csv # Raw dataset
+├── supermarket_sales_analysis.ipynb # Jupyter notebook with complete analysis
+└── output/
+└── city_sales.png # Saved visualization of sales by city
 
-- Python 🐍
-- Pandas
-- Matplotlib
-- VS Code
 
-## 📊 Features
+---
 
-- Load and clean dataset
-- Display summary statistics
+## 🧪 Dataset
+
+The dataset contains records of customer transactions in a supermarket, including:
+- Invoice ID
+- Branch and City
+- Customer type and Gender
+- Product line
+- Total sales
+- Payment method
+- Date and Time of purchase
+
+---
+
+## 📊 Key Objectives
+
+- Clean and preprocess the data
+- Perform summary statistics
+- Engineer new features (e.g., Month, Day)
+- Identify outliers and trends
 - Visualize total sales by city
-- Save output graph to a file
 
-## ▶️ How to Run
+---
 
-1. Clone this repo:
+## ✅ Features Implemented
 
-   ```bash
-   git clone https://github.com/wasimhaidar9811/supermarket-sales-analysis.git
-   cd supermarket-sales-analysis
-   pip install -r requirements.txt
-   python supermarket_analysis.py
+| Feature                                     | Description                                                  |
+|--------------------------------------------|--------------------------------------------------------------|
+| 🔍 Data Cleaning & Missing Values           | Handled nulls and ensured consistency                        |
+| 🏗 Feature Engineering                      | Extracted `Month`, `Day` from transaction dates              |
+| 📈 Data Integrity                           | Converted data types and removed corrupt entries             |
+| 📊 Summary Statistics                       | Descriptive stats and value distribution checks              |
+| 🔍 Outlier Detection                        | Used IQR method to filter sales outliers                     |
+| 📉 Visualization                            | Bar plot of total sales by city (saved to `/output`)         |
+
+---
+
+## 📦 Requirements
+
+- Python 3.x
+- pandas
+- matplotlib
+- seaborn
+- Jupyter Notebook
+
+Install requirements using:
+
+```bash
+pip install pandas matplotlib seaborn notebook

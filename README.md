@@ -4,7 +4,7 @@ This project provides a comprehensive analysis of supermarket sales data using P
 
 ---
 
-## 📁 Project Structure (XML Format)
+## 📁 Project Structure 
 ```xml
 super_market_sales_analysis/
 ├── supermarket_sales_mock.csv # Raw dataset

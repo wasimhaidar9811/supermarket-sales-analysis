@@ -4,14 +4,14 @@ This project provides a comprehensive analysis of supermarket sales data using P
 
 ---
 
-## 📁 Project Structure
+<project name="super_market_sales_analysis">
+    <file name="supermarket_sales_mock.csv" description="Raw dataset" />
+    <file name="supermarket_sales_analysis.ipynb" description="Jupyter notebook with complete analysis" />
+    <folder name="output">
+        <file name="city_sales.png" description="Saved visualization of sales by city" />
+    </folder>
+</project>
 
-super_market_sales_analysis/
-│
-├── supermarket_sales_mock.csv # Raw dataset
-├── supermarket_sales_analysis.ipynb # Jupyter notebook with complete analysis
-└── output/
-└── city_sales.png # Saved visualization of sales by city
 
 
 ---
